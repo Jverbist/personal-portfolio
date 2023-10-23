@@ -33,3 +33,8 @@ python manage.py startapp appname
 python manage.py runserver
 
 ```
+
+to do:
+
+- GIF background
+- Wallpaper download page
